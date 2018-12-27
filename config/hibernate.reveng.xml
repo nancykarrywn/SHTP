@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="shtp" match-name="admin"/>
+  <table-filter match-catalog="shtp" match-name="category"/>
+  <table-filter match-catalog="shtp" match-name="comment"/>
+  <table-filter match-catalog="shtp" match-name="complain"/>
+  <table-filter match-catalog="shtp" match-name="auditedgoods"/>
+  <table-filter match-catalog="shtp" match-name="goods"/>
+  <table-filter match-catalog="shtp" match-name="member"/>
+  <table-filter match-catalog="shtp" match-name="orders"/>
+</hibernate-reverse-engineering>
